@@ -1,0 +1,5 @@
+{
+  "name": "HT 3-Phase Ampere to kVA Converter",
+  "description": "A mobile-friendly web app to calculate kVA from 3-phase current readings for multiple substations, auto-detect shift, manage multiple locations, accumulate results, and generate a copyable daily load report.",
+  "requestFramePermissions": []
+}
